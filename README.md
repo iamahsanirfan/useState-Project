@@ -3,6 +3,6 @@ Author: Ahsan Paracha
 <br>
 Increment & Decrement Program using useState()
 <br>
-Class Assignment <br> Practice Code
+Class Assignment Practice Code
 <br>
 GIAIC Querter 2
